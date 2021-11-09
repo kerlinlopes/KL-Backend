@@ -1,0 +1,15 @@
+[
+    {
+      "name": "project1",
+      "live": "https://seir-penguin-project-1-theta.vercel.app/",
+      "git": "https://github.com/kerlinlopes/seir_penguin_project_1",
+      "image": "https://i.imgur.com/Cd5fB1b.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://kl-penguin-p2.herokuapp.com/",
+      "git": "https://github.com/kerlinlopes/seir_penguin_project_2",
+      "image": "https://i.imgur.com/6MJKz8S.png"
+    }
+  ]
+  
